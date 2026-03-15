@@ -81,5 +81,3 @@ motor-imagery-bci/
 
 **Hidayet Allah Yaakoubi**
 Engineering student — Tunisia
-
-```
