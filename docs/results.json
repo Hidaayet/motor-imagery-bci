@@ -1,0 +1,14 @@
+{
+  "peak_accuracy": 72.4,
+  "final_accuracy": 64.0,
+  "total_parameters": 3444,
+  "training_epochs": 150,
+  "dataset": "BCI Competition IV Dataset 2a",
+  "subject": "A01",
+  "classes": [
+    "left_hand",
+    "right_hand",
+    "feet",
+    "tongue"
+  ]
+}
