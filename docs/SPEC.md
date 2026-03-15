@@ -1,6 +1,6 @@
 # Project Specification — Motor Imagery BCI
 
-**Author:** Your Name
+**Author:** Hidayet Allah Yaakoubi
 **Date:** March 2026
 **Status:** In progress
 
@@ -157,3 +157,7 @@ __pycache__/
 *.pth
 *.pt
 ```
+
+GitHub Desktop → commit message:
+```
+add project structure, SPEC and gitignore
