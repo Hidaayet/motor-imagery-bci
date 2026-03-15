@@ -72,9 +72,35 @@ motor-imagery-bci/
 - [x] Project defined and documented
 - [x] Data exploration and preprocessing
 - [x] EEGNet model implementation
-- [x] Model training and evaluation
-- [ ] Real-time classification demo
+- [x] Model training and evaluation — 72.4% accuracy, kappa 0.519
+- [x] Real-time classification demo
 
+---
+
+## How to run
+
+**1. Install dependencies**
+```
+pip install mne torch numpy scipy scikit-learn matplotlib seaborn
+```
+
+**2. Download the dataset**
+See `docs/SPEC.md` section 10 for download instructions.
+Place GDF files in the `data/` folder.
+
+**3. Run the notebooks in order**
+```
+notebooks/01_data_exploration.ipynb
+notebooks/02_preprocessing.ipynb
+notebooks/03_model_training.ipynb
+notebooks/04_evaluation.ipynb
+```
+
+**4. Run the live demo**
+```
+cd src
+python realtime_demo.py
+```
 ---
 
 ## Author
