@@ -70,9 +70,9 @@ motor-imagery-bci/
 ## Progress log
 
 - [x] Project defined and documented
-- [ ] Data exploration and preprocessing
-- [ ] EEGNet model implementation
-- [ ] Model training and evaluation
+- [x] Data exploration and preprocessing
+- [x] EEGNet model implementation
+- [x] Model training and evaluation
 - [ ] Real-time classification demo
 
 ---
