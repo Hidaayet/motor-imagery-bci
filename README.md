@@ -4,7 +4,7 @@ An EEG-based Brain Computer Interface that classifies motor imagery signals
 (imagined hand and foot movements) from brain electrical activity using deep
 learning — enabling humans to control devices with thought alone.
 
-> 🚧 Project status: In progress — Phase 1 (research & data exploration)
+>  Project status: In progress — Phase 1 (research & data exploration)
 
 ---
 
