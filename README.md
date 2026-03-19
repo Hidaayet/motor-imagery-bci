@@ -101,6 +101,8 @@ notebooks/04_evaluation.ipynb
 cd src
 python realtime_demo.py
 ```
+## 📄 Documentation
+For a detailed description of the system design, signal processing pipeline, and performance results, see the [full project report](docs/Motor_Imagery_BCI_Report.pdf).
 ---
 
 ## Author
